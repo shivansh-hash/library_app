@@ -41,7 +41,7 @@ def create_table_issued_books():
         conn.commit()
         print("table creation done ")
     except:
-        print("table creation not done ")
+        print("table creation not done,")
 
 
 
